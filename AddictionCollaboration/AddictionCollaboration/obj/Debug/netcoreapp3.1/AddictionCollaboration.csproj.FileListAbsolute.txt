@@ -1,0 +1,9 @@
+C:\development\AddictionCollaboration\AddictionCollaboration\obj\Debug\netcoreapp3.1\AddictionCollaboration.csprojAssemblyReference.cache
+C:\development\AddictionCollaboration\AddictionCollaboration\obj\Debug\netcoreapp3.1\AddictionCollaboration.AssemblyInfoInputs.cache
+C:\development\AddictionCollaboration\AddictionCollaboration\obj\Debug\netcoreapp3.1\AddictionCollaboration.AssemblyInfo.cs
+C:\development\AddictionCollaboration\AddictionCollaboration\obj\Debug\netcoreapp3.1\AddictionCollaboration.csproj.CoreCompileInputs.cache
+C:\development\AddictionCollaboration\AddictionCollaboration\bin\Debug\netcoreapp3.1\AddictionCollaboration.deps.json
+C:\development\AddictionCollaboration\AddictionCollaboration\bin\Debug\netcoreapp3.1\AddictionCollaboration.dll
+C:\development\AddictionCollaboration\AddictionCollaboration\bin\Debug\netcoreapp3.1\AddictionCollaboration.pdb
+C:\development\AddictionCollaboration\AddictionCollaboration\obj\Debug\netcoreapp3.1\AddictionCollaboration.dll
+C:\development\AddictionCollaboration\AddictionCollaboration\obj\Debug\netcoreapp3.1\AddictionCollaboration.pdb

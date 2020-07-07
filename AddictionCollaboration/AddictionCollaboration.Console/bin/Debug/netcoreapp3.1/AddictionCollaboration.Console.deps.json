@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AddictionCollaboration.Console/1.0.0": {
+        "dependencies": {
+          "AddictionCollaboration": "1.0.0"
+        },
+        "runtime": {
+          "AddictionCollaboration.Console.dll": {}
+        }
+      },
+      "AddictionCollaboration/1.0.0": {
+        "runtime": {
+          "AddictionCollaboration.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AddictionCollaboration.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AddictionCollaboration/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

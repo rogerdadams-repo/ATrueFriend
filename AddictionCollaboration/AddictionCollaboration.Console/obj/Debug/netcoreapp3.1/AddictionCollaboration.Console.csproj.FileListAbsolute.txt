@@ -1,0 +1,16 @@
+C:\development\AddictionCollaboration\AddictionCollaboration.Console\obj\Debug\netcoreapp3.1\AddictionCollaboration.Console.AssemblyInfoInputs.cache
+C:\development\AddictionCollaboration\AddictionCollaboration.Console\obj\Debug\netcoreapp3.1\AddictionCollaboration.Console.AssemblyInfo.cs
+C:\development\AddictionCollaboration\AddictionCollaboration.Console\obj\Debug\netcoreapp3.1\AddictionCollaboration.Console.csproj.CoreCompileInputs.cache
+C:\development\AddictionCollaboration\AddictionCollaboration.Console\bin\Debug\netcoreapp3.1\AddictionCollaboration.Console.exe
+C:\development\AddictionCollaboration\AddictionCollaboration.Console\bin\Debug\netcoreapp3.1\AddictionCollaboration.Console.deps.json
+C:\development\AddictionCollaboration\AddictionCollaboration.Console\bin\Debug\netcoreapp3.1\AddictionCollaboration.Console.runtimeconfig.json
+C:\development\AddictionCollaboration\AddictionCollaboration.Console\bin\Debug\netcoreapp3.1\AddictionCollaboration.Console.runtimeconfig.dev.json
+C:\development\AddictionCollaboration\AddictionCollaboration.Console\bin\Debug\netcoreapp3.1\AddictionCollaboration.Console.dll
+C:\development\AddictionCollaboration\AddictionCollaboration.Console\bin\Debug\netcoreapp3.1\AddictionCollaboration.Console.pdb
+C:\development\AddictionCollaboration\AddictionCollaboration.Console\bin\Debug\netcoreapp3.1\AddictionCollaboration.dll
+C:\development\AddictionCollaboration\AddictionCollaboration.Console\bin\Debug\netcoreapp3.1\AddictionCollaboration.pdb
+C:\development\AddictionCollaboration\AddictionCollaboration.Console\obj\Debug\netcoreapp3.1\AddictionCollaboration.Console.csprojAssemblyReference.cache
+C:\development\AddictionCollaboration\AddictionCollaboration.Console\obj\Debug\netcoreapp3.1\AddictionCollaboration.Console.csproj.CopyComplete
+C:\development\AddictionCollaboration\AddictionCollaboration.Console\obj\Debug\netcoreapp3.1\AddictionCollaboration.Console.dll
+C:\development\AddictionCollaboration\AddictionCollaboration.Console\obj\Debug\netcoreapp3.1\AddictionCollaboration.Console.pdb
+C:\development\AddictionCollaboration\AddictionCollaboration.Console\obj\Debug\netcoreapp3.1\AddictionCollaboration.Console.genruntimeconfig.cache
